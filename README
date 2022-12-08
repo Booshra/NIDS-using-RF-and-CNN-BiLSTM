@@ -1,0 +1,5 @@
+NIDS-using-RF-and-CNN-BiLSTM
+You can use below public Kaggle notebook in order to reproduce the results. Notebooks below are for multiclass classification, you can modify them for binary!
+
+UNSW Multiclass: https://www.kaggle.com/razor08/unsw-categorical-final
+NSL KDD Multiclass: https://www.kaggle.com/razor08/nsl-kdd-categorical
